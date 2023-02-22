@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "name": "Dự án demo",
+      "describe": "Demo",
+      "content": "íuogfkhjnwemsbcjnsm",
+      "linkGithub": "https://github.com/thangnvph4303",
+      "linkPreview": "dfvdfvdsfedsfvd",
+      "completiontime": "cxvsdfsdfscdcsd",
+      "feedback": "dfvdvdfevd",
+      "technology": "đfvcvedcvdfcvdf",
+      "feartedImage": [
+        "https://res.cloudinary.com/dbvfeaves/image/upload/v1677071341/demo/fpwetynbfrjeeipju2aq.png"
+      ],
+      "Album": [],
+      "categoryProjectId": "2",
+      "id": 1
+    }
+  ],
+  "categoryProjects": [
+    {
+      "id": "1",
+      "name": "HTML/CSS/JS"
+    },
+    {
+      "id": "2",
+      "name": "Reactjs"
+    },
+    {
+      "id": "3",
+      "name": "Php Larvel"
+    }
+  ],
+  "introduce": {
+    "id": "1",
+    "name": "Nguyễn Văn Thắng",
+    "date": "04/03/2003",
+    "job": "Front end developer",
+    "describe": "I'm a computer techniclan with a focus on web development with HTML, CSS and JavaScript",
+    "img": [
+      "https://res.cloudinary.com/dbvfeaves/image/upload/v1677070904/demo/immoude1xi4k9e16lxyg.jpg"
+    ],
+    "imgskills": [
+      "https://res.cloudinary.com/dbvfeaves/image/upload/v1677071956/demo/hpxz87uxgatj3kqagvpf.png"
+    ],
+    "content": "My name is Nguyen Van Thang, I'm a computer technician with a great passion for programming. Improved my skills as a Front-End developerI develop websites and applications using HTML, CSS, and JavaScript.I'm always improving myself with each project I get my hands on. I am a dedicated person who pursues his dreams, hardworking and results oriented, I always seek to achieve my best version.",
+    "interest": "Nghe nhạc, Xem phim",
+    "skills": []
+  },
+  "contact": {
+    "phone": "0335887303",
+    "email": "thangnvph20126@fpt.edu.vn",
+    "facebook": "https://www.facebook.com/thangnv2003",
+    "instagram": "https://www.instagram.com/_thangnv2003/"
+  },
+  "users": {
+    "email": "thang@gmail.com",
+    "password": "thang123"
+  }
+}
